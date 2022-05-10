@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinayak1337
+- 👋 Hi, I’m Vinayak
 
 I am a web developer, pursued my Computer Engineering degree from Ambedkar Institute of Technology.
 Working on computer & creating something new was my dream ever since when I was a child. And now I finally became one. I am a MERN-Stack Developer.
