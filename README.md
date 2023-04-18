@@ -6,11 +6,11 @@
 
 **<div align="center">![Profile views](https://komarev.com/ghpvc/?username=vinayak1337) [![wakatime](https://wakatime.com/badge/user/f1829cb2-d6e8-41a1-860a-fb5c8380ebc9.svg)](https://wakatime.com/@f1829cb2-d6e8-41a1-860a-fb5c8380ebc9)</div>**
 
-- 🔭 I’m currently working at **wonderHood**
-- 🌱 I’m currently learning **React-Native** & **ThreeJs**
-- 👯 I’m looking to collaborate on JavaScript/TypeScript projects.
-- 📫 Reach me through **[Email](mailto:vinayak111kumar@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/vinayak1337/)**
-- ⚡ Fun fact: I love listening to music and playing games.
+- 🚀 Currently working at **WonderHood** as a passionate developer
+- 🎯 Focused on mastering **React-Native** & **ThreeJs** to expand my skillset
+- 🤝 Eager to collaborate on innovative JavaScript/TypeScript projects
+- 📩 Feel free to reach me through **[Email](mailto:vinayak111kumar@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/vinayak1337/)**
+- 💡 Fun fact: I enjoy immersing myself in music and engaging in gaming sessions during my downtime.
 
 **Languages, Libraries, Frameworks and Tools:**
 
