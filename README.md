@@ -20,7 +20,7 @@
   </a>
 </div>
 
-- 🚀 Currently working at **WonderHood** as a **Software Developer - I**
+- 🚀 Currently working at ??
 - 🎯 Focused on mastering **React-Native** & **ThreeJs** to expand my skillset
 - 🤝 Eager to collaborate on innovative JavaScript/TypeScript projects
 - 📩 Feel free to reach me through **[Email](mailto:vinayak111kumar@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/vinayak1337/)**
