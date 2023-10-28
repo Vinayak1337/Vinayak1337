@@ -20,7 +20,7 @@
   </a>
 </div>
 
-- 🚀 Currently working at ?? [Hire Me](https://drive.google.com/file/d/1s3AOZAkClk58IPk8F1czEFWBsj-J1uaW/view?usp=sharing)
+- 🚀 Currently looking for Job Opportunity.
 - 🎯 Focused on mastering **React-Native** & **ThreeJs** to expand my skillset
 - 🤝 Eager to collaborate on innovative JavaScript/TypeScript projects
 - 📩 Feel free to reach me through **[Email](mailto:vinayak111kumar@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/vinayak1337/)**
