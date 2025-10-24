@@ -10,7 +10,7 @@
 
 <div align="center">
   <h3><strong>A Passionate Full-Stack Engineer</strong></h3>
-  <a style="margin-top:-12px" href="https://portfolio.vinayak1337.vercel.app/" target="_blank">🌐 View Portfolio</a>
+  <a style="margin-top:-12px" href="https://vinayak1337.me/" target="_blank">🌐 View Portfolio</a>
 </div>
 
 <div align="center">
