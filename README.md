@@ -1,58 +1,48 @@
 <div align="center">
-  <h2>
-  <strong>
-  Hi👋, I'm Vinayak
-  </strong>
-  </h2>
+  <h1>Vinayak Kumar</h1>
+  <h3>React / Next.js Software Engineer · Product-minded Full-Stack Builder</h3>
+  <p>
+    <a href="https://vinayak1337.me">Portfolio</a> ·
+    <a href="https://www.linkedin.com/in/vinayak1337/">LinkedIn</a> ·
+    <a href="mailto:vinayak111kumar@gmail.com">Email</a>
+  </p>
 </div>
 
----
+I build frontend-heavy full-stack products with React, Next.js, TypeScript, Node.js, analytics, CMS workflows, and applied AI features where they improve the user workflow.
 
-<div align="center">
-  <h3><strong>A Passionate Full-Stack Engineer</strong></h3>
-  <a style="margin-top:-12px" href="https://vinayak1337.me/" target="_blank">🌐 View Portfolio</a>
-</div>
+- New Delhi, India; focused on India full-time and internship roles.
+- 3+ years of professional product engineering experience; programming since 2020.
+- Currently leading the BPIT site rebuild from legacy PHP to Next.js App Router with inline CMS workflows.
+- Previously shipped AI immigration workflows at RemoteHire and web/mobile learning products at wonderHood.
+
+## Work To Review First
+
+| Project | Why it matters |
+| --- | --- |
+| [portfolio-the-manifesto](https://github.com/Vinayak1337/portfolio-the-manifesto) | Current portfolio source, metadata, analytics, and hiring-positioned content. |
+| [bpit-site-redesign](https://github.com/Vinayak1337/bpit-site-redesign) | Next.js App Router college website rebuild with inline click-to-edit CMS and structured content workflows. |
+| [StoreFrontNextjs](https://github.com/Vinayak1337/StoreFrontNextjs) | Full-stack POS/inventory dashboard with orders, analytics, receipts, auth, and thermal printing workflow. |
+| [AI-chat-vsc-extension](https://github.com/Vinayak1337/AI-chat-vsc-extension) | Editor-native AI workflow for planning, code review, debugging, context files, and write-back actions. |
+| [training-and-placement-bpit](https://github.com/Vinayak1337/training-and-placement-bpit) | Placement operations dashboard for student records, drives, applications, and analytics. |
+| [NutriLife](https://github.com/Vinayak1337/NutriLife) | React Native product architecture across authenticated onboarding, AI-assisted food capture, state, recommendations, and analytics. |
+
+## Strongest Signals
+
+- React, Next.js App Router, TypeScript, React Native, Tailwind, shadcn/ui
+- Node.js, Express, Prisma, MongoDB, PostgreSQL, REST, GraphQL
+- LangChain, Flowise, RAG, applied AI UX, document validation, eligibility scoring
+- PostHog, Mixpanel, product analytics, dashboards, reporting workflows
+- Clerk, Stripe, Vercel, AWS S3, Firebase, GitHub
+
+## Recent Focus
+
+- Turning portfolio projects into clear product case studies recruiters can evaluate quickly.
+- Shipping polished Next.js interfaces with measurable product workflows, not only UI clones.
+- Keeping applied AI work grounded in product value: retrieval, validation, scoring, workflow automation, and visible evidence.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vinayak1337" alt="Profile views" />
   <a href="https://wakatime.com/@f1829cb2-d6e8-41a1-860a-fb5c8380ebc9">
-    <img src="https://wakatime.com/badge/user/f1829cb2-d6e8-41a1-860a-fb5c8380ebc9.svg" alt="wakatime" />
+    <img src="https://wakatime.com/badge/user/f1829cb2-d6e8-41a1-860a-fb5c8380ebc9.svg" alt="WakaTime" />
   </a>
 </div>
-
-- 🚀 TBD
-- 🎯 Focused on mastering **React-Native** & **ThreeJs** to expand my skillset
-- 🤝 Eager to collaborate on innovative JavaScript/TypeScript projects
-- 📩 Feel free to reach me through **[Email](mailto:vinayak111kumar@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/vinayak1337/)**
-- 💡 Fun fact: I enjoy immersing myself in music and engaging in gaming sessions during my downtime.
-
-**Languages, Libraries, Frameworks, and Tools:**
-
-<!-- Frontend -->
-<!-- <details> -->
-  <summary><strong>Frontend</strong></summary>
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript) ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3) ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=next.js) ![Ionic](https://img.shields.io/badge/-Ionic-000000?style=flat&logo=ionic) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwind-css) ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-000000?style=flat&logo=styled-components) ![styled-jsx](https://img.shields.io/badge/-styled%20jsx-000000?style=flat&logo=styled-jsx) ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql) ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux) ![React Query](https://img.shields.io/badge/-React%20Query-000000?style=flat&logo=react-query) ![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-000000?style=flat&logo=redux-saga)
-<!-- </details> -->
-
-<!-- Backend -->
-<!-- <details> -->
-  <summary><strong>Backend</strong></summary>
-
-  ![Node.js](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) ![Socket.io](https://img.shields.io/badge/-Socket.io-000000?style=flat&logo=socket.io) ![PM2](https://img.shields.io/badge/-PM2-000000?style=flat&logo=pm2) ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger) ![NestJs](https://img.shields.io/badge/-NestJs-000000?style=flat&logo=nestjs)
-<!-- </details> -->
-
-<!-- Other Tech & Tools -->
-<!-- <details> -->
-  <summary><strong>Other Tech & Tools</strong></summary>
-
-  ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github) ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel) ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman) ![RegEx](https://img.shields.io/badge/-RegEx-000000?style=flat&logo=regex) ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code) ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack) ![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=yarn) ![npm](https://img.shields.io/badge/npm-000000?style=flat&logo=npm)  ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku) ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
-<!-- </details> -->
-
-![github stats](https://github-stats.vinayak1337.vercel.app/api?username=vinayak1337&count_private=true&theme=merko&hide=issues)
-
-![top languages](https://github-stats.vinayak1337.vercel.app/api/top-langs/?username=vinayak1337&layout=compact&theme=merko&count_private=true)
-
-![github streak](https://streak-stats.demolab.com/?user=vinayak1337&theme=merko)
-
-![github trophy](https://github-profile-trophy.vercel.app/?username=vinayak1337&theme=radical)
