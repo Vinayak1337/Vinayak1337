@@ -16,7 +16,7 @@
 
 ## Open source
 
-Merged PRs in [checkstyle](https://github.com/checkstyle/checkstyle/pull/20455) ([×2](https://github.com/checkstyle/checkstyle/pull/19832)), [expressjs/codemod](https://github.com/expressjs/codemod/pull/143), and [jenkinsci/azure-ad-plugin](https://github.com/jenkinsci/azure-ad-plugin/pull/803).
+Worked on [checkstyle](https://github.com/checkstyle/checkstyle) (Java static-analysis tool) — [specified all default properties for SuppressionCommentFilter](https://github.com/checkstyle/checkstyle/pull/20455) and [fixed LineLength violation-comment placement in Javadoc](https://github.com/checkstyle/checkstyle/pull/19832). Worked on [expressjs/codemod](https://github.com/expressjs/codemod) — [updated package.json handling in the Express v5 migration recipe](https://github.com/expressjs/codemod/pull/143) — and [jenkinsci/azure-ad-plugin](https://github.com/jenkinsci/azure-ad-plugin) — [fixed sign-in when the Referer header is missing](https://github.com/jenkinsci/azure-ad-plugin/pull/803).
 
 ## Currently
 
