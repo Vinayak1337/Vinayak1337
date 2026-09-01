@@ -20,7 +20,6 @@ Worked on [checkstyle](https://github.com/checkstyle/checkstyle) (Java static-an
 ## Currently
 
 - Recently shipped: BPIT site project (official college tech team, 2025), NutriLife v1.0, and OSS fixes in checkstyle/Express/Jenkins.
-- **Open to full-time software engineering roles at product companies — India / Delhi NCR / remote.**
 - Fastest way to reach me: [email](mailto:vinayak111kumar@gmail.com)
 
 ---
