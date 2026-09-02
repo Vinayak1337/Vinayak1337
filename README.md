@@ -1,17 +1,23 @@
 # Hi, I'm Vinayak
 
-**Software engineer — React, Next.js, TypeScript, full-stack product systems with applied AI (RAG) depth.**
+**Full-stack engineer building production web, mobile, and applied-AI products with React, Next.js, TypeScript, React Native, Node.js, PostgreSQL, and MongoDB.**
 
-3+ years of professional experience (2021-2024) across ed-tech and AI products. In 2025 I led a 3-person official college tech team project to build the new BPIT website from scratch. Finishing my B.Tech (expected 2027).
+I have 3+ years of professional software engineering experience and work across frontend architecture, backend/data systems, authentication, analytics, commerce, real-time workflows, and AI-assisted product experiences. I'm finishing my B.Tech at GGSIPU (expected 2027).
 
 [Portfolio](https://vinayak1337.me/) · [Resume](https://vinayak1337.me/Vinayak_Kumar_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/vinayak1337/) · [Email](mailto:vinayak111kumar@gmail.com)
 
-## Selected work
+## Technical focus
 
-- **[StoreFrontNextjs](https://github.com/Vinayak1337/StoreFrontNextjs)** — POS/billing/inventory dashboard: Next.js, Prisma/PostgreSQL, analytics, secure cookie sessions + CSRF/rate-limit, **Web Bluetooth thermal printing**
-- **[NutriLife](https://github.com/Vinayak1337/NutriLife)** — React Native/Expo nutrition app: onboarding, AI-assisted food capture, meal logging, insights ([APK](https://github.com/Vinayak1337/NutriLife/releases/tag/v1.0.0))
-- **[AI Chat — VS Code Extension](https://github.com/Vinayak1337/AI-chat-vsc-extension)** — editor-native AI chat with file-aware context, React webview, multi-provider (OpenAI/Gemini) abstraction
-- **[BPIT Site Redesign](https://bpit-site-redesign.vercel.app/)** — official college tech team site built from scratch: Next.js App Router, inline click-to-edit CMS persisted to MongoDB, PostHog, SEO/structured data
+- **Frontend:** React, Next.js App Router, TypeScript, React Native, Redux Toolkit/Saga, Tailwind CSS
+- **Backend / Data:** Node.js, Express.js, Prisma, PostgreSQL, MongoDB, REST, GraphQL, Socket.io
+- **Product / AI:** LLM and retrieval workflows, Clerk, Stripe, PostHog, Mixpanel, Vercel, AWS S3
+
+## Selected public work
+
+- **[StoreFrontNextjs](https://github.com/Vinayak1337/StoreFrontNextjs)** — POS, inventory, orders, and analytics dashboard built with Next.js, TypeScript, Prisma, and PostgreSQL; includes secure cookie sessions, CSRF/rate limiting, and Web Bluetooth thermal printing.
+- **[NutriLife](https://github.com/Vinayak1337/NutriLife)** — React Native/Expo nutrition app with Clerk onboarding, AI-assisted food capture, persisted meal and water tracking, calendar insights, and recommendations ([APK](https://github.com/Vinayak1337/NutriLife/releases/tag/v1.0.0)).
+- **[AI Chat — VS Code Extension](https://github.com/Vinayak1337/AI-chat-vsc-extension)** — editor-native AI chat with file attachments, model configuration, planning/review/debugging workflows, and write-back-oriented developer UX.
+- **[BPIT Site Redesign](https://bpit-site-redesign.vercel.app/)** — public college website built from scratch with Next.js App Router, TypeScript, an inline click-to-edit CMS persisted through MongoDB, PostHog analytics, and Vercel previews.
 
 ## Open source
 
@@ -19,7 +25,8 @@ Worked on [checkstyle](https://github.com/checkstyle/checkstyle) (Java static-an
 
 ## Currently
 
-- Recently shipped: BPIT site project (official college tech team, 2025), NutriLife v1.0, and OSS fixes in checkstyle/Express/Jenkins.
+- Recently shipped: BPIT site project, NutriLife v1.0, and OSS fixes in checkstyle, Express, and Jenkins.
+- Open to full-time software engineering roles at product companies — India, Delhi NCR, or remote.
 - Fastest way to reach me: [email](mailto:vinayak111kumar@gmail.com)
 
 ---
