@@ -26,7 +26,6 @@ Worked on [checkstyle](https://github.com/checkstyle/checkstyle) (Java static-an
 ## Currently
 
 - Recently shipped: BPIT site project, NutriLife v1.0, and OSS fixes in checkstyle, Express, and Jenkins.
-- Open to full-time software engineering roles at product companies — India, Delhi NCR, or remote.
 - Fastest way to reach me: [email](mailto:vinayak111kumar@gmail.com)
 
 ---
