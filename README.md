@@ -32,5 +32,5 @@ Worked on [checkstyle](https://github.com/checkstyle/checkstyle) (Java static-an
 
 ![github stats](https://github-stats.vinayak1337.vercel.app/api?username=vinayak1337&count_private=true&theme=merko&hide=issues)
 ![top languages](https://github-stats.vinayak1337.vercel.app/api/top-langs/?username=vinayak1337&layout=compact&theme=merko&count_private=true)
-![github streak](https://streak-stats.demolab.com/?user=vinayak1337&theme=merko)
-![github trophy](https://github-profile-trophy.vercel.app/?username=vinayak1337&theme=radical)
+![github streak](https://github-stats.vinayak1337.vercel.app/api/streak?username=Vinayak1337&theme=merko)
+![github trophy](https://github-stats.vinayak1337.vercel.app/api/trophy?username=Vinayak1337&theme=merko)
