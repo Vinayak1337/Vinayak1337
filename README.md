@@ -15,7 +15,7 @@ I have 3+ years of professional software engineering experience and work across 
 ## Selected public work
 
 - **[StoreFrontNextjs](https://github.com/Vinayak1337/StoreFrontNextjs)** — POS, inventory, orders, and analytics dashboard built with Next.js, TypeScript, Prisma, and PostgreSQL; includes secure cookie sessions, CSRF/rate limiting, and Web Bluetooth thermal printing.
-- **[NutriLife](https://github.com/Vinayak1337/NutriLife)** — React Native/Expo nutrition app with Clerk onboarding, AI-assisted food capture, persisted meal and water tracking, calendar insights, and recommendations ([APK](https://github.com/Vinayak1337/NutriLife/releases/tag/v1.0.0)).
+- **[NutriLife](https://github.com/Vinayak1337/Nurtrilife)** — React Native/Expo nutrition app with Clerk onboarding, AI-assisted food capture, persisted meal and water tracking, calendar insights, and recommendations ([APK](https://github.com/Vinayak1337/Nurtrilife/releases/tag/v1.0.0)).
 - **[AI Chat — VS Code Extension](https://github.com/Vinayak1337/AI-chat-vsc-extension)** — editor-native AI chat with file attachments, model configuration, planning/review/debugging workflows, and write-back-oriented developer UX.
 - **[BPIT Site Redesign](https://bpit-site-redesign.vercel.app/)** — public college website built from scratch with Next.js App Router, TypeScript, an inline click-to-edit CMS persisted through MongoDB, PostHog analytics, and Vercel previews.
 
