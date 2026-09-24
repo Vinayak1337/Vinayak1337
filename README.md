@@ -16,7 +16,7 @@ I've been coding since 2019 and have 3+ years of professional experience across 
 ## Selected public work
 
 - **[StoreFrontNextjs](https://github.com/Vinayak1337/StoreFrontNextjs)** — POS, inventory, orders, and analytics dashboard built with Next.js, TypeScript, Prisma, and PostgreSQL; includes secure cookie sessions, CSRF/rate limiting, and Web Bluetooth thermal printing.
-- **[NutriLife](https://github.com/Vinayak1337/Nurtrilife)** — React Native/Expo nutrition app with Clerk onboarding, AI food photo analysis, persisted meal and water tracking, calendar insights, and recommendations ([APK](https://github.com/Vinayak1337/Nurtrilife/releases/tag/v1.0.0)).
+- **[Nutrlife](https://github.com/Vinayak1337/Nutrlife)** — React Native/Expo nutrition app with Clerk onboarding, AI food photo analysis, persisted meal and water tracking, calendar insights, and recommendations ([APK](https://github.com/Vinayak1337/Nutrlife/releases/tag/v1.0.0)).
 - **[AI Chat — VS Code Extension](https://github.com/Vinayak1337/AI-chat-vsc-extension)** — file-aware AI chat with OpenAI/Gemini providers, attachments, planning/review/debugging prompts, and editor write-back primitives.
 - **[BPIT Site Redesign](https://bpit-site-redesign.vercel.app/)** — public college website built from scratch with Next.js App Router, TypeScript, an inline click-to-edit CMS persisted through MongoDB, PostHog analytics, and Vercel previews.
 
