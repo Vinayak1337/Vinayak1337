@@ -2,7 +2,7 @@
 
 **Full-stack engineer building web, mobile, and AI products with React, Next.js, TypeScript, React Native, and Node.js.**
 
-I've been coding since 2019 and have 3+ years of professional experience across internship, full-time, and part-time roles from 2021 to 2024. I've built learning and commerce products, college publishing tools, and AI agents and workflows. I'm completing my B.Tech in Computer Science and Engineering at GGSIPU (expected 2027).
+I've been coding since 2019 and have 3+ years of professional experience across internships, full-time, and part-time roles since 2021. I've built learning and commerce products, college publishing tools, and AI agents and workflows. I'm completing my B.Tech in Computer Science and Engineering at GGSIPU (expected 2027).
 
 [Portfolio](https://vinayak1337.me/) · [Resume](https://vinayak1337.me/Vinayak_Kumar_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/vinayak1337/) · [Email](mailto:vinayak111kumar@gmail.com)
 
@@ -12,6 +12,14 @@ I've been coding since 2019 and have 3+ years of professional experience across 
 - **Backend / Data:** Node.js, Express.js, Prisma, PostgreSQL, MongoDB, REST, GraphQL, Socket.io
 - **AI agents and workflows:** LLM integrations, Flowise, retrieval, developer tooling
 - **Product infrastructure:** Clerk, Stripe, PostHog, Mixpanel, Vercel, AWS S3
+
+## Recent experience
+
+**Product Engineer Intern, Philblocks Private Limited · Jun-Jul 2026 · [Ideapost](https://ideapost.top)**
+
+- Migrated authentication to Clerk with webhook-based user sync and role-protected dashboard and admin routes.
+- Built a stackable credit ledger and Razorpay billing flows, and added Mixpanel product events.
+- Developed an initial AI post-generation workflow with profile context, memory recall, drafting, moderation, and run tracking.
 
 ## Selected public work
 
