@@ -1,8 +1,8 @@
 # Hi, I'm Vinayak
 
-**Full-stack engineer building web and mobile products with React, Next.js, TypeScript, React Native, and Node.js.**
+**Full-stack engineer building web, mobile, and AI products with React, Next.js, TypeScript, React Native, and Node.js.**
 
-I've been coding since 2019 and have 3+ years of professional software engineering experience across internship, full-time, and part-time roles from 2021 to 2024. My work includes learning apps, commerce, college publishing tools, APIs, and AI-assisted search. I'm completing my B.Tech in Computer Science and Engineering at GGSIPU (expected 2027).
+I've been coding since 2019 and have 3+ years of professional experience across internship, full-time, and part-time roles from 2021 to 2024. I've built learning and commerce products, college publishing tools, and AI agents and workflows. I'm completing my B.Tech in Computer Science and Engineering at GGSIPU (expected 2027).
 
 [Portfolio](https://vinayak1337.me/) · [Resume](https://vinayak1337.me/Vinayak_Kumar_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/vinayak1337/) · [Email](mailto:vinayak111kumar@gmail.com)
 
@@ -10,7 +10,8 @@ I've been coding since 2019 and have 3+ years of professional software engineeri
 
 - **Frontend:** React, Next.js App Router, TypeScript, React Native, Redux Toolkit/Saga, Tailwind CSS
 - **Backend / Data:** Node.js, Express.js, Prisma, PostgreSQL, MongoDB, REST, GraphQL, Socket.io
-- **Product / AI:** LLM and retrieval workflows, Clerk, Stripe, PostHog, Mixpanel, Vercel, AWS S3
+- **AI agents and workflows:** LLM integrations, Flowise, retrieval, developer tooling
+- **Product infrastructure:** Clerk, Stripe, PostHog, Mixpanel, Vercel, AWS S3
 
 ## Selected public work
 
