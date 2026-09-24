@@ -1,8 +1,8 @@
 # Hi, I'm Vinayak
 
-**Full-stack engineer building production web, mobile, and applied-AI products with React, Next.js, TypeScript, React Native, Node.js, PostgreSQL, and MongoDB.**
+**Full-stack engineer building web and mobile products with React, Next.js, TypeScript, React Native, and Node.js.**
 
-I have 3+ years of professional software engineering experience and work across frontend architecture, backend/data systems, authentication, analytics, commerce, real-time workflows, and AI-assisted product experiences. I'm finishing my B.Tech at GGSIPU (expected 2027).
+I've been coding since 2019 and have 3+ years of professional software engineering experience across internship, full-time, and part-time roles from 2021 to 2024. My work includes learning apps, commerce, college publishing tools, APIs, and AI-assisted search. I'm completing my B.Tech in Computer Science and Engineering at GGSIPU (expected 2027).
 
 [Portfolio](https://vinayak1337.me/) · [Resume](https://vinayak1337.me/Vinayak_Kumar_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/vinayak1337/) · [Email](mailto:vinayak111kumar@gmail.com)
 
@@ -22,11 +22,6 @@ I have 3+ years of professional software engineering experience and work across 
 ## Open source
 
 Worked on [checkstyle](https://github.com/checkstyle/checkstyle) (Java static-analysis tool) — [specified all default properties for SuppressionCommentFilter](https://github.com/checkstyle/checkstyle/pull/20455) and [fixed LineLength violation-comment placement in Javadoc](https://github.com/checkstyle/checkstyle/pull/19832). Worked on [expressjs/codemod](https://github.com/expressjs/codemod) — [updated package.json handling in the Express v5 migration recipe](https://github.com/expressjs/codemod/pull/143) — and [jenkinsci/azure-ad-plugin](https://github.com/jenkinsci/azure-ad-plugin) — [fixed sign-in when the Referer header is missing](https://github.com/jenkinsci/azure-ad-plugin/pull/803).
-
-## Currently
-
-- Recently shipped: BPIT site project, NutriLife v1.0, and OSS fixes in checkstyle, Express, and Jenkins.
-- Fastest way to reach me: [email](mailto:vinayak111kumar@gmail.com)
 
 ---
 
