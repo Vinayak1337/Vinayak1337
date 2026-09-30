@@ -15,11 +15,13 @@ I've been coding since 2019 and have 3+ years of professional experience across 
 
 ## Recent experience
 
-**Product Engineer Intern, Philblocks Private Limited · Jun-Jul 2026 · [Ideapost](https://ideapost.top)**
+**Product Engineer Intern, [Philblocks Private Limited](https://ideapost.top) · June–July 2026**
 
-- Migrated authentication to Clerk with webhook-based user sync and role-protected dashboard and admin routes.
-- Built a stackable credit ledger and Razorpay billing flows, and added Mixpanel product events.
-- Developed an initial AI post-generation workflow with profile context, memory recall, drafting, moderation, and run tracking.
+- Built Ideapost's AI post-generation workflow with **Next.js**, **TypeScript**, and **LangGraph**. Coordinated agents to plan posts, write drafts for LinkedIn, X, and Facebook, then review and revise them, with progress tracking in the editor.
+- Built tone matching from users' own posts: analyzed writing patterns, retrieved relevant examples with **MongoDB Atlas Vector Search**, and used them to guide drafts and flag changes in tone. Kept generated posts out of the user's writing samples so they would not skew future results.
+- Added **MongoDB** run locks, distributed rate limits, provider checks, and retries to prevent overlapping AI runs and recover failed requests. Integrated model providers through **Vercel AI Gateway** and added logs, diagnostics, and credit refunds for unsuccessful runs.
+- Moved authentication from **Firebase** to **Clerk**, synced users through webhooks, and protected routes by role. Built **Razorpay** credit-based billing with payment webhooks, a stackable transaction ledger, refunds, and admin controls; added **Mixpanel** events to track product use.
+
 
 ## Selected public work
 
