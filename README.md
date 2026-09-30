@@ -13,16 +13,6 @@ I've been coding since 2019 and have 3+ years of professional experience across 
 - **AI agents and workflows:** LLM integrations, Flowise, retrieval, developer tooling
 - **Product infrastructure:** Clerk, Stripe, PostHog, Mixpanel, Vercel, AWS S3
 
-## Recent experience
-
-**Product Engineer Intern, [Philblocks Private Limited](https://ideapost.top) · June–July 2026**
-
-- Built Ideapost's AI post-generation workflow with **Next.js**, **TypeScript**, and **LangGraph**. Coordinated agents to plan posts, write drafts for LinkedIn, X, and Facebook, then review and revise them, with progress tracking in the editor.
-- Built tone matching from users' own posts: analyzed writing patterns, retrieved relevant examples with **MongoDB Atlas Vector Search**, and used them to guide drafts and flag changes in tone. Kept generated posts out of the user's writing samples so they would not skew future results.
-- Added **MongoDB** run locks, distributed rate limits, provider checks, and retries to prevent overlapping AI runs and recover failed requests. Integrated model providers through **Vercel AI Gateway** and added logs, diagnostics, and credit refunds for unsuccessful runs.
-- Moved authentication from **Firebase** to **Clerk**, synced users through webhooks, and protected routes by role. Built **Razorpay** credit-based billing with payment webhooks, a stackable transaction ledger, refunds, and admin controls; added **Mixpanel** events to track product use.
-
-
 ## Selected public work
 
 - **[StoreFrontNextjs](https://github.com/Vinayak1337/StoreFrontNextjs)** — POS, inventory, orders, and analytics dashboard built with Next.js, TypeScript, Prisma, and PostgreSQL; includes secure cookie sessions, CSRF/rate limiting, and Web Bluetooth thermal printing.
